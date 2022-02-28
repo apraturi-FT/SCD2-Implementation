@@ -1,4 +1,4 @@
-# SCD2-POC
+# SCD2-IMPLEMENTATION
 SCD2 Implementation for employee 
 
 Business scenario:
