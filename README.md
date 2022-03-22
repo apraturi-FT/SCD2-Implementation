@@ -8,7 +8,7 @@ Business scenario:
 
 John doe works in Google his job there is to keep track of employee’s details of change in project or change in manager and even keep track of the hikes and variable pay changes an employee gets.
 He is required to maintain the history record and present record of the employee. 
-Hence he decides to hire you to create the best solution for doing the same.
+Hence he decides to hire me to create the best solution for doing the same.
 
 ![image](https://user-images.githubusercontent.com/100192167/155978130-6123e316-5b4f-4e08-900f-4f2993f8f9d4.png)
 
